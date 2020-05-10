@@ -12,8 +12,8 @@ body
     {
     
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 10%;
+    left: 30%;
     transform: translate(-50%,-50%);
     margin: 0;
     padding: 0 20px;
@@ -23,6 +23,7 @@ body
     text-transform: uppercase;
     border: 15px solid #000;
     border-top: none;
+    background-color: yellowgreen;
     
     }
     
